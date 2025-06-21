@@ -33,7 +33,7 @@ A simple and clean **To-Do List App** built using **HTML**, **CSS**, and **Vanil
 
 ## 🖼️ Interface Preview
 
-![To-Do App Screenshot](images/interface_preview.png)
+![To-Do App Screenshot](https://github.com/ShivendraSinha418/Todo-List-/blob/main/Todolist.png)
 
 > Screenshot of the live To-Do list in action.  
 > *(You can replace this with your own uploaded UI screenshot.)*
